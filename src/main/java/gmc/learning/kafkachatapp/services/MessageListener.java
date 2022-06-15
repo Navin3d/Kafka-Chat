@@ -6,7 +6,6 @@ import org.springframework.messaging.handler.annotation.Payload;
 import org.springframework.messaging.simp.SimpMessagingTemplate;
 import org.springframework.stereotype.Component;
 
-import gmc.learning.kafkachatapp.entities.MessageEntity;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
